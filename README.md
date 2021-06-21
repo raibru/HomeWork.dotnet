@@ -1,4 +1,4 @@
-# HoemWork dotnet
+# HomeWork dotnet
 
 Collection of how-to stuff
 
